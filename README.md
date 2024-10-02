@@ -29,3 +29,12 @@ index.html - main file
 Assets - storage
 you can store images
 
+Create a component
+./ - relative path
+
+You build a component- one Angular Application = One Component
+APP Component -headerComponent
+              - UserComponent
+              -TasksComponent -TaskComponent
+
+
