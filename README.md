@@ -37,4 +37,10 @@ APP Component -headerComponent
               - UserComponent
               -TasksComponent -TaskComponent
 
+Code in the component
+
+Export class (name if what you building) - exports the Component so that is can be used in other classes
+import component decorator - angular/core
+
+
 
